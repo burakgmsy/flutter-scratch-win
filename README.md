@@ -1,4 +1,4 @@
-# flutterscratchwin
+# Scratch&Win Flutter
 
 Flutter + Firebase project for scratch game
 
