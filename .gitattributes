@@ -2,3 +2,4 @@
 * linguist-vendored
 *.js linguist-vendored=false
 *.makefile linguist-vendored=false
+*.dart linguist-vendored=true
