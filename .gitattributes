@@ -1,3 +1,2 @@
 # Auto detect text files and perform LF normalization
-*.dart linguist-detectable=true
-*.js linguist-detectable=false
+*.md linguist-language=Dart
