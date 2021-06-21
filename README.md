@@ -1,9 +1,11 @@
 # flutterscratchwin
 
-Flutter + Firebase project for scratch and win game
+Flutter + Firebase project for scratch game
 
 ## NOTE
 -Integrate firebase sdk
+<br />
 -Enable anonymous login in firebase
+<br />
 -Open collection named users in firestore
 
